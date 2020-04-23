@@ -1,0 +1,8 @@
+- name: Korean
+  percentage: 100
+  color: success
+  
+- name: Tableau
+  percentage: 60
+  color: info
+
