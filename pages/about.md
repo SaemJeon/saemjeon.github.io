@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Drexel University (Expected Graduation: June 2020)
 - M.S. in Computer Science
 - B.S. in Electrical and Computer Engineering
-- Minor in Business Administraion
+- Minor in Business Administration
 - GPA: 4.0 (Dean's List)
 
 
