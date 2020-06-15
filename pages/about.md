@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am passionate about learning new skills. I have experience in software engieering as well as hardware. I am currently interning at iPipeline as a .NET developer. I am a fourth year student at Drexel University and currently enrolled in B.S./M.S. program. I am double majoring in Electrical and Computer Engineering for my undergrad degree and studying Computer Science for my Masters.
 
 ## Education
 #### Drexel University (Expected Graduation: June 2020)

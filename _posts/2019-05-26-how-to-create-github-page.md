@@ -1,5 +1,5 @@
 ---
-title: How To Create a Your Personal Webiste with GitHub Page and Jekyll
+title: How To Create Your Personal Webiste with GitHub Page and Jekyll
 tags: [Website]
 style: 
 color: 
