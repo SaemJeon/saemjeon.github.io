@@ -1,3 +1,20 @@
+- title: Software Development Engineer Intern <br /> <h4> Amazon Web Services (AWS) </h4>
+  from: June 2021
+  to: Present
+  description: 
+    • Design and apply data models to provide secure continous integration and deployment tool for internal EC2 Nitro based teams<br/>
+    • Update DynamoDB table schema to uniquely identify packages deployed to the EC2 Nitro servers<br/>
+    • Implement signing processes to ensure security by preventing uncertified software from deploying<br/>
+
+- title: Software Engineering Intern <br /> <h4> Bentley Systems </h4>
+  from: April 2021
+  to: June 2021
+  description:
+    • Deployed REST API via Azure Functions and TypeScript to deliver build information about various services <br />
+    • Created a dashboard for other developrs to easily check verisons of commonly used packaged across different services <br />
+    • Reduced the usgae of resources to run unncessary builds by invalidating builds under certain criteria <br />
+    • Maintained webpack tools used for the open source project, imodeljs <br />
+
 - title: .NET Developer <br /> <h4> iPipeline </h4>
   from: April 2019
   to: August 2020

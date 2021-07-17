@@ -8,8 +8,8 @@
 
 - name: .NET
   percentage: 60
-  color: dark
+  color: white
 
-- name: Flask, html, CSS
+- name: html, CSS, JavaScript, TypeScript
   percentage: 60
   color: secondary
