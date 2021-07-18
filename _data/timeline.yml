@@ -2,26 +2,27 @@
   from: June 2021
   to: Present
   description: 
-    • Design and apply data models to provide secure continous integration and deployment tool for internal EC2 Nitro based teams<br/>
-    • Update DynamoDB table schema to uniquely identify packages deployed to the EC2 Nitro servers<br/>
-    • Implement signing processes to ensure security by preventing uncertified software from deploying<br/>
+    • Design and apply data models to provide a secure continuous integration and deployment tool for internal EC2 Nitro based teams <br />
+    • Update DynamoDB table schemas to uniquely identify packages deployed to the EC2 Nitro servers <br />
+    • Enhance the security by improving the signing process preventing uncertified software from deploying <br />
 
 - title: Software Engineering Intern <br /> <h4> Bentley Systems </h4>
   from: April 2021
   to: June 2021
   description:
-    • Deployed REST API via Azure Functions and TypeScript to deliver build information about various services <br />
-    • Created a dashboard for other developrs to easily check verisons of commonly used packaged across different services <br />
-    • Reduced the usgae of resources to run unncessary builds by invalidating builds under certain criteria <br />
-    • Maintained webpack tools used for the open source project, imodeljs <br />
+    • Generated several REST API endpoints delivering information about various services utilizing Azure Functions and TypeScript <br />
+    • Created a dashboard for developers to easily check versions of commonly used packages across different services <br />
+    • Reduced the usage of resources to run unnecessary builds by invalidating builds under certain criteria <br />
+    • Maintained webpack tools used for the open source project, iModel.js <br />
 
 - title: .NET Developer <br /> <h4> iPipeline </h4>
   from: April 2019
   to: August 2020
   description: 
-    • Develop .NET SaaS products to automate application process for life insurance companies utilizing Visual Basic, XML, and proprietary language <br />
-    • Design database objects in SQL Server and develop functions to trigger and store them properly <br />
-    • Troubleshoot and resolve bugs in .NET applications to stabilize the development environment and final product
+    • Developed .NET SaaS products to automate application process for the life insurance companies <br />
+    • Expanded XSLT configurations to transform customer data into XML documents <br />
+    • Captured signatures from key parties and mapped them to the application forms <br />
+    • Addressed customer issues related to the products
 
 - title: Teaching Assistant <br /> <h4> Drexel College of Computing & Informatics </h4>
   from: September 2018
