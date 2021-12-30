@@ -28,7 +28,7 @@ author:
   image             : /assets/img/Saem_photo.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : sj846@drexel.edu
+  email             : saemjeon96@gmail.com
 # facebook          : your_username
   github            : saemjeon
 # gitlab            : your_username
@@ -48,6 +48,8 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
+### New Tab ###
+external_new_tab: true
 
 ### Collections ###
 collections:

@@ -1,10 +1,10 @@
 - title: Software Development Engineer Intern <br /> <h4> Amazon Web Services (AWS) </h4>
   from: June 2021
-  to: Present
+  to: Sept 2021
   description: 
-    • Design and apply data models to provide a secure continuous integration and deployment tool for internal EC2 Nitro based teams <br />
-    • Update DynamoDB table schemas to uniquely identify packages deployed to the EC2 Nitro servers <br />
-    • Enhance the security by improving the signing process preventing uncertified software from deploying <br />
+    • Designed and applied data models to provide a secure continuous integration and deployment tool for internal EC2 Nitro based teams <br />
+    • Updated DynamoDB table schemas to uniquely identify packages deployed to the EC2 Nitro servers <br />
+    • Enhanced the security by improving the signing process preventing uncertified software from deploying <br />
 
 - title: Software Engineering Intern <br /> <h4> Bentley Systems </h4>
   from: April 2021
@@ -26,9 +26,9 @@
 
 - title: Teaching Assistant <br /> <h4> Drexel College of Computing & Informatics </h4>
   from: September 2018
-  to: June 2020
+  to: Present
   description:
-    • Performed one-on-one or small group academic tutoring to students who have difficulty with course materials <br />
-    • Graded and provided feedback on students’ assignments to improve programming technique and efficiency <br />
-    • Facilitated in lab activities and gave guidance to students
+    • Perform one-on-one or small group academic tutoring to students who have difficulty with course materials <br />
+    • Grade and provide feedback on students’ assignments to improve programming technique and efficiency <br />
+    • Facilitate in lab activities and gave guidance to students
 

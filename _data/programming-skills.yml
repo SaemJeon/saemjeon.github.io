@@ -2,14 +2,14 @@
   percentage: 80
   color: danger
 
-- name: MATLAB
+- name: MATLAB, Kotlin
   percentage: 70
   color: blue
-
-- name: .NET
+  
+- name: html, CSS, JavaScript, TypeScript, .NET
   percentage: 60
   color: white
 
-- name: html, CSS, JavaScript, TypeScript
-  percentage: 60
+- name: C, Java
+  percentage: 40
   color: secondary
